@@ -1,6 +1,7 @@
-### Hi there 👋
+![xl3ehindTim's github stats](https://github-readme-stats.vercel.app/api?username=xl3ehindTim)
 
 <!--
+### Hi there 👋
 **xl3ehindTim/xl3ehindTim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
