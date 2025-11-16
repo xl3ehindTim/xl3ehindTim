@@ -23,4 +23,4 @@ When I'm not behind a screen, I'm probably **running** or at the **gym**. Fitnes
 
 🔥 **Current Goal:** I'm currently training hard for the **Dutch Backyard Ultra** in March! A fantastic (and challenging) test of mental and physical strength.
 
-![Running badge](https://af6076a16f02.ngrok-free.app/files/strava-badge.svg)
+<img src="https://af6076a16f02.ngrok-free.app/files/strava-badge.svg" alt="Strava Badge" />
