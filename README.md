@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Tim 👋
 
 <!--
 **xl3ehindTim/xl3ehindTim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Tim, and I believe in the power of technology with a human touch. Collaborating with people is central to my work and studies as an IT professional. I enjoy developing solutions that are not only technically sound, but above all, truly connect with the user and create a positive social impact.
+
+### Beyond the code 🏃‍♂️
+
+When I'm not behind a screen, I'm probably **running** or at the **gym**. Fitness is my way to clear my head and push my limits.
+
+🔥 **Current Goal:** I'm currently training hard for the **Dutch Backyard Ultra** in March! A fantastic (and challenging) test of mental and physical strength.
+
+![Running badge](https://af6076a16f02.ngrok-free.app/files/strava-badge.svg)
